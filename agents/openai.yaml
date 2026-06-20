@@ -1,0 +1,4 @@
+interface:
+  display_name: "Process-Driven Development"
+  short_description: "Stepwise records, deployment scripts, CLI menus, and integration gates"
+  default_prompt: "Use $process-driven-development to plan and build this project step by step with Markdown records and integration checks."
